@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9df071c81a415cc41b30c88423bc9e5e, type: 3}
+  m_Name: How the Land Got a Pink Lake
+  m_EditorClassIdentifier: 
+  _CoverImage: {fileID: 21300000, guid: a0d95978e6a58494c8d33812a25d58d7, type: 3}
+  _Parts:
+  - _Sentance: A young knight and her dragon were playing at the beach.
+    _Image: {fileID: 21300000, guid: 78d54dc0ddb32574493387bb2cd4efc8, type: 3}
+  - _Sentance: The dragon found a pink beach ball.
+    _Image: {fileID: 21300000, guid: 8324db1dd54688949bde012a1914982d, type: 3}
+  - _Sentance: The dragon tried to jump on the beach ball.
+    _Image: {fileID: 21300000, guid: c8e79ed2022dbf74c9fa19185a9d445e, type: 3}
+  - _Sentance: The beach ball popped.
+    _Image: {fileID: 21300000, guid: 49ba527aebc1ac7408bb4271163c23bc, type: 3}
+  - _Sentance: They went for lunch.
+    _Image: {fileID: 21300000, guid: e38c48bb92beb044aad14db5fb6e7033, type: 3}
+  - _Sentance: The knight had a big gummy bear.
+    _Image: {fileID: 21300000, guid: 22cee03dadfa41045a544cddadbeab0d, type: 3}
+  - _Sentance: The dragon ate a very big cheese burger.
+    _Image: {fileID: 21300000, guid: 56104716a3a114241a96a0e61eb464ea, type: 3}
+  - _Sentance: The dragon burped.
+    _Image: {fileID: 21300000, guid: 0c22fc93bf326854a9b61b584f8446ef, type: 3}
+  - _Sentance: The burp was so big, it blew the water away.
+    _Image: {fileID: 21300000, guid: ddf2aa417d158404cb07ad9cfab6339a, type: 3}
+  - _Sentance: They saw a ship under the water.
+    _Image: {fileID: 21300000, guid: 351c3465d2c2c814895efe0ea6dcd276, type: 3}
+  - _Sentance: The knight climbed in.
+    _Image: {fileID: 21300000, guid: 9f42942b76618f440860d592460c3b5e, type: 3}
+  - _Sentance: The knight found a treasure chest.
+    _Image: {fileID: 21300000, guid: 7684e65dc9f0e8743844ab6f1c96c648, type: 3}
+  - _Sentance: She carried the chest out to the beach.
+    _Image: {fileID: 21300000, guid: ba28cf44ce66fbf43b1e534ea6ccc995, type: 3}
+  - _Sentance: She asked the dragon to break it open.
+    _Image: {fileID: 21300000, guid: b9a9b552547bdbb438b0ba8e007d3b33, type: 3}
+  - _Sentance: The dragon smashed it. There was a lot of pink glitter inside.
+    _Image: {fileID: 21300000, guid: d317a6210d4918c4c9fba31cfa90a963, type: 3}
+  - _Sentance: The wind blew the glitter into the air.
+    _Image: {fileID: 21300000, guid: b60bd0716349d2c4995727adfc841701, type: 3}
+  - _Sentance: It rained for 3 days.
+    _Image: {fileID: 21300000, guid: 15b0786d309fbe84dbf34ab51b7946c1, type: 3}
+  - _Sentance: When the lake filled up, it was pink. - The End
+    _Image: {fileID: 21300000, guid: da2652bbc8d371848bec41b98ab7966b, type: 3}
